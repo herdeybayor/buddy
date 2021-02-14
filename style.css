@@ -1,0 +1,243 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: calibri;
+}
+
+.banner {
+	background-color: #005FD5;
+	max-width: 720px;
+	min-width: 710px;
+}
+
+#white ul li a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#white {
+	color: white;
+}
+
+#f-text {
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+header a img {
+	position: relative;
+}
+
+header b {
+	padding-left: 7px;
+	position: absolute;
+	top: 3px;
+	left: 35px;
+	padding: 15px;
+}
+
+.navbar li {
+	display: inline;
+	font-size: 11px;
+	margin: 5px;
+}
+
+.navfloatleft {
+	float: left;
+	padding: 15px;
+}
+
+.navfloatright  {
+	float: right;
+	padding: 15px;
+}
+
+.banner2 {
+	background-color: beige;
+	max-width: 720px;
+	min-width: 710px;
+	padding-bottom: 40px;
+}
+
+main section h2, p{
+	text-align: center;
+	position: ;
+	margin: 0;
+	padding: 0;
+}
+
+.btn1 {
+	color: #005FD5;
+	font-weight: bold;
+	padding: 5px;
+	background-color: white;
+	border-color: transparent;
+	border-radius: 4px;
+}
+
+.first-section {
+	padding-left: 100px;
+	float: left;
+}
+
+.third-section {
+	float: right;
+	position: absolute;
+	left: 380px;
+	top: 180px;
+}
+
+input{
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+input[type=text], input[type=password] {
+	font-size: 14px;
+
+}
+
+.user-region {
+	padding-left: 40px;
+	position: relative;
+	border-color: transparent;
+	border-radius: 4px;
+}
+
+.user1 {
+	position: absolute;
+	top: 192px;
+	left: 110px;
+	color: #757575;
+}
+
+.user2 {
+	position: absolute;
+	top: 262px;
+	left: 110px;
+	color: #757575;
+}
+
+.user3 {
+	position: absolute;
+	top: 330px;
+	left: 110px;
+	color: #757575;
+}
+
+.btn2 {
+	padding: 10px;
+	background-color: #7AD731;
+	border-color: transparent;
+	color: white;
+	font-weight: bold;
+	width: 190px;
+	border-radius: 5px;
+
+}
+
+.signup {
+	width: 200px;
+	background-color: white;
+	padding: 13px;
+	border-radius: 5px;
+	font-weight: bold;
+	color: #005FD5;
+	margin-bottom: 20px;
+}
+
+.formdiv {
+	padding-left: 40px;
+}
+
+.user4 {
+	position: absolute;
+	padding: 15px;
+	top: 0px;
+}
+
+.user5 {
+	position: absolute;
+	padding: 15px;
+	top: 83px;
+}
+
+.option, .option a {
+	margin-top: 30px;
+	color: white;
+}
+
+.footer-main {
+	padding-top: 30px;
+	padding-left: 60px;
+	font-size: 11px;
+	color: black;
+}
+
+.footer-sub1 {
+	float: left;
+}
+
+.footer-sub2 {
+	float: left;
+	padding-left: 60px;
+}
+
+.footer-sub3 {
+	float: left;
+	padding-left: 60px;
+}
+
+.footer-sub1 h3 {
+	padding-bottom: 10px;
+}
+
+.footer-sub1 li {
+	padding-bottom: 7px;
+}
+
+.footer-sub2 h3 {
+	padding-bottom: 10px;
+}
+
+.footer-sub2 li {
+	padding-bottom: 7px;
+}
+
+.footer-sub3 h3 {
+	padding-bottom: 10px;
+}
+
+.footer-sub3 li {
+	padding-bottom: 7px;
+}
+
+.footer-list li {
+	display: inline;
+	padding-left: 7px;
+}
+
+.footer-share {
+	padding-top: 140px;
+	padding-left: 53px;
+}
+
+.chat-move {
+	position: absolute;
+	left: 670px;
+	top: 540px;
+}
+
+.chat-move2 {
+	position: absolute;
+	left: 670px;
+	top: 750px;
+}
+
+.big-logo {
+	position: absolute;
+	left: 500px;
+	top: 600px;
+}
